@@ -4,5 +4,8 @@
 }
 #card {
   background-color: rgb(236, 236, 236);
-  border: 1px solid rgb(211, 211, 211);
+  /* border: 1px solid rgb(211, 211, 211); */
+  box-shadow: 4px 4px 5px 1px rgba(54, 54, 54, 0.55);
+  -webkit-box-shadow: 6px 6px 10px 1px rgba(0, 0, 0, 0.55);
+  -moz-box-shadow: 6px 6px 10px 1px rgba(0, 0, 0, 0.55);
 }
